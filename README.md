@@ -1,1 +1,2 @@
-# friendly-lamp
+# Who am i?
+Laphat Thaveewatkij
